@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-* main - entry point
+* print_alphabet_x10 - entry point
 *
-* Return: prints 10 times the alphabet
+* Return: p
 *
 */
 void print_alphabet_x10(void);
