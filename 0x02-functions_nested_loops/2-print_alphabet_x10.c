@@ -4,7 +4,6 @@
 * print_alphabet_x10 - entry point
 *
 * Return: p
-*
 */
 void print_alphabet_x10(void);
 {
