@@ -2,6 +2,7 @@
 
 /**
 * _islower - show lower case characters
+* @c: character to be displayed
 *
 * Return: 1 for lowercase
 */
