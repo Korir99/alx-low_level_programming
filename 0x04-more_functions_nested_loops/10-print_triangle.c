@@ -1,9 +1,12 @@
 #include "main.h"
+
 /**
  * print_triangle - prints triangle followed by new line
  * @size: size
  */
+
 void print_triangle(int size)
+
 {
 	int c, i, j;
 
