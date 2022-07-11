@@ -11,9 +11,9 @@ void puts_half(char *str)
 
 	x = strlen(str);
 
-	if (x % 2 == 0)
+	if (x % 2 == 1)
 	{
-	y = x / 2;
+	y = x / 2 + 1;
 	}
 
 	else
