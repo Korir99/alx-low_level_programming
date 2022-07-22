@@ -1,19 +1,15 @@
+#include <stdio.h>
 #include "main.h"
-
 /**
- * main - the entry point
- * @argc: argument counter
- * @argv: array of pointer to strings
- *
- * Return: 0
- */
+* main - function
+* @argc: argument count
+* @argv: argument vector
+* Return: function name
+*/
 int main(int argc, char *argv[])
 {
-	int i;
+	(void)argc;
 
-	for (i = 0; i < argc; i++)
-	{
-		printf("%s\n", argv[i]);
-	}
+	printf("%s\n", argv[0]);
 	return (0);
 }
